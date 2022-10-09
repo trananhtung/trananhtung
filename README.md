@@ -1,4 +1,4 @@
-https://tungtran.is-a-good.dev/
+https://tungtran.is-a.dev/
 
 ### My own statistics! 👋
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tunganhtran&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
